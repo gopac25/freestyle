@@ -2,4 +2,4 @@
 
 uname -a
 date
-ip a
+pwd
